@@ -1,4 +1,5 @@
 #!/bin/bash
+
 _grafana_version=$1
 _grafana_tag=$2
 _release_build=false
